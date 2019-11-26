@@ -1,0 +1,67 @@
+{
+  "mappings": [
+
+    {
+      "request": {
+        "method": "GET",
+        "url": "/movies"
+      },
+      "response": {
+        "status": 200,
+        "jsonBody":
+          [
+            {
+              "id": 1,
+              "title": "TO KEFALAIO",
+              "year": "1867-09-25"
+            },
+            {
+              "id": 2,
+              "title": "KRATOS KAI EPANASTASH",
+              "year": "1917-09-25"
+            },
+            {
+              "id": 3,
+              "title": "AREIANARA",
+              "year": "1914-09-25"
+            }
+          ]
+      }
+    },
+
+    {
+      "request": {
+        "method": "GET",
+        "url": "/movies/1"
+      },
+      "response": {
+        "status": 200,
+        "jsonBody": {
+          "title": "TO KEFALAIO",
+          "description": "quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto",
+          "director": "MARX"
+        }
+      }
+    },
+
+    {
+      "request": {
+        "method": "POST",
+        "url": "/movies",
+        "bodyPatterns" : [{
+          "equalToJson": [
+            {
+              "title": "Mock Title",
+              "director": "Mock Director",
+              "year": "2019-09-25",
+              "description": "Mock Description"
+            }
+          ]
+        }]
+      },
+      "response": {
+        "status": 201
+      }
+    }
+  ]
+}

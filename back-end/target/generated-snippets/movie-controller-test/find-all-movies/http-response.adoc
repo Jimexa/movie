@@ -1,0 +1,31 @@
+[source,http,options="nowrap"]
+----
+HTTP/1.1 200 OK
+Vary: Origin
+Vary: Access-Control-Request-Method
+Vary: Access-Control-Request-Headers
+Content-Type: application/json;charset=UTF-8
+Content-Length: 378
+
+[ {
+  "id" : 1,
+  "title" : "TO KEFALAIO",
+  "year" : "1867-09-25"
+}, {
+  "id" : 2,
+  "title" : "KRATOS KAI EPANASTASH",
+  "year" : "1917-09-25"
+}, {
+  "id" : 3,
+  "title" : "AREIANARA",
+  "year" : "1914-09-25"
+}, {
+  "id" : 4,
+  "title" : "OI ALHTES THS ZWHS",
+  "year" : "2009-09-25"
+}, {
+  "id" : 5,
+  "title" : "HARRY POTTER",
+  "year" : "1917-09-25"
+} ]
+----

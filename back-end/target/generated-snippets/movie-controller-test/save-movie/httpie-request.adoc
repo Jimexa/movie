@@ -1,0 +1,10 @@
+[source,bash]
+----
+$ echo '{
+  "title" : "Mock Title",
+  "director" : "Mock Director",
+  "year" : "2019-11-26",
+  "description" : "Mock Description"
+}' | http POST 'http://localhost:8080/movies' \
+    'Content-Type:application/json;charset=UTF-8'
+----

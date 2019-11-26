@@ -1,0 +1,3 @@
+com\exadaktylos\movies\MoviesApplicationTests.class
+com\exadaktylos\movies\MovieControllerTest.class
+com\exadaktylos\movies\config\H2TestProfileJPAConfig.class

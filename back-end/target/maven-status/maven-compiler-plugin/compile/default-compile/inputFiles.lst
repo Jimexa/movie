@@ -1,0 +1,17 @@
+C:\Users\dimitris\Desktop\movie\movie\Back\src\main\java\com\exadaktylos\movies\controllers\MovieController.java
+C:\Users\dimitris\Desktop\movie\movie\Back\src\main\java\com\exadaktylos\movies\services\MovieServiceImpl.java
+C:\Users\dimitris\Desktop\movie\movie\Back\src\main\java\com\exadaktylos\movies\dto\MovieStoreDto.java
+C:\Users\dimitris\Desktop\movie\movie\Back\src\main\java\com\exadaktylos\movies\domain\Movie.java
+C:\Users\dimitris\Desktop\movie\movie\Back\src\main\java\com\exadaktylos\movies\exceptions\MovieErrorResponse.java
+C:\Users\dimitris\Desktop\movie\movie\Back\src\main\java\com\exadaktylos\movies\MoviesApplication.java
+C:\Users\dimitris\Desktop\movie\movie\Back\src\main\java\com\exadaktylos\movies\convert\MovieToMovieDtoConverter.java
+C:\Users\dimitris\Desktop\movie\movie\Back\src\main\java\com\exadaktylos\movies\exceptions\MovieNotFoundException.java
+C:\Users\dimitris\Desktop\movie\movie\Back\src\main\java\com\exadaktylos\movies\domain\Details.java
+C:\Users\dimitris\Desktop\movie\movie\Back\src\main\java\com\exadaktylos\movies\services\MovieService.java
+C:\Users\dimitris\Desktop\movie\movie\Back\src\main\java\com\exadaktylos\movies\dto\DetailsDto.java
+C:\Users\dimitris\Desktop\movie\movie\Back\src\main\java\com\exadaktylos\movies\dto\MovieDto.java
+C:\Users\dimitris\Desktop\movie\movie\Back\src\main\java\com\exadaktylos\movies\convert\DetailsToDetailsDtoConverter.java
+C:\Users\dimitris\Desktop\movie\movie\Back\src\main\java\com\exadaktylos\movies\ServletInitializer.java
+C:\Users\dimitris\Desktop\movie\movie\Back\src\main\java\com\exadaktylos\movies\config\DevDataSourceConfiguration.java
+C:\Users\dimitris\Desktop\movie\movie\Back\src\main\java\com\exadaktylos\movies\repositories\MovieRepository.java
+C:\Users\dimitris\Desktop\movie\movie\Back\src\main\java\com\exadaktylos\movies\repositories\DetailsRepository.java
