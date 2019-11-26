@@ -1,0 +1,11 @@
+.search {
+  justify-content: space-between;
+  padding: 2%;
+  background-color: #ededed;
+}
+
+.spinnerContainer {
+  position: absolute;
+  top: 50vh;
+  left: 50vw;
+}

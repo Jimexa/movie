@@ -1,0 +1,15 @@
+.movieLI {
+  justify-content: space-between;
+  border-bottom-style: solid;
+  border-bottom-color: #dddddd;
+  border-bottom-width: 0.2mm;
+}
+
+.movieLI:hover {
+  background-color: #ededed;
+  cursor: pointer;
+}
+
+.container {
+  margin-inline: 0;
+}
